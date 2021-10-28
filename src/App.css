@@ -205,10 +205,12 @@ input[type='color']:focus,
     color: #000;
     border-bottom: 1px solid #000;
 }
-.co-menu-area ul li.active a
-{
+.co-menu-area ul li.active a{
     color: #2cb34a;
     border-color: #2cb34a;
+}
+.is-active {
+  color: #2cb34a !important;
 }
 
 .section
